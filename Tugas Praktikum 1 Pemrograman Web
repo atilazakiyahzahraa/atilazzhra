@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    
+    <fieldset>
+    
+        <h1 align="center">CURRICULUM VITAE</h1>
+        <br />
+        
+    </head>
+    
+    <body>
+    
+        <img src="https://cdn.pixabay.com/photo/2012/04/26/19/43/profile-42914_1280.png" width=100 align=Right/>
+      
+
+    <h2>Data Diri</h2>
+    
+    <hr>
+       
+        <p>Nama : Atila Zakiyah Zahrah</p>
+        <p>Tempat, Tanggal Lahir : Bogor, 21 Desember</p>
+        <p>Agama : Islam</p>
+        <p>Jenis Kelamin : Perempuan</p>
+        <p>Berat Badan : 53 kg</p>
+        <p>Tinggi Badan : 160 cm</p>
+        <p>Alamat : Ciseeng, Kab.Bogor</p>
+        <p>No. Handphone : +6281514012700</p>
+        <p>Email : zahraatilaa2112@gmail.com</p>
+        
+        <h2>Pendidikan</h2>
+    
+        <hr>
+        
+        <ul>
+        <li>(2011-2017) SDN Bojongrangkas 02</li>
+        <li>(2017-2020) SMPN 01 Ciampea</li>
+        <li>(2020-2023) SMAN 01 Ciseeng</li>
+        <li>(2023-sekarang) STT Terpadu Nurul Fikri</li>
+        </ul>
+        
+        <h2>Kemampuan</h2>
+        <hr>
+        <p>Bahasa : Bahasa Indonesia (aktif), Bahasa Inggris (pasif)</p>
+        
+        <h2>Pengalaman</h2>
+        
+        <hr>
+        
+        <ul>
+            <li>Anggota Paskibra SMPN 1 CIAMPEA  (2017-2020)</li>
+            <li>Anggota Organisasi OSIS SMPN 1 CIAMPEA (2017-2020)</li>
+            <li>Anggota Paskibra SMAN 1 CISEENG (2020-2023)</li>
+        </ul>
+        
+    </body>
+    
+    </fieldset>
+    
+</html
